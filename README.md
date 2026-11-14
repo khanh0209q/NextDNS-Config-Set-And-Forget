@@ -1,0 +1,1 @@
+# NextDNS-Config-Set-And-Forget
