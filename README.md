@@ -33,6 +33,7 @@
 
 ---
 
+<a name="1-security"></a>
 <h2><img src="./assets/security.svg" alt="Security" width="30" height="30" align="top" /> 1. Security</h2>
 
 <p align="justify">
@@ -66,6 +67,7 @@
 
 ---
 
+<a name="2-privacy"></a>
 <h2><img src="./assets/privacy.svg" alt="Privacy" width="30" height="30" align="top" /> 2. Privacy</h2>
 
 ### Blocklists
@@ -91,6 +93,7 @@
 
 ---
 
+<a name="3-parental-control-denylist--allowlist"></a>
 <h2><img src="./assets/control.svg" alt="Parental Control" width="30" height="30" align="top" /> 3. Parental Control, Denylist & Allowlist</h2>
 
 ### Parental Control
@@ -110,6 +113,7 @@
 
 ---
 
+<a name="4-settings--performance"></a>
 <h2><img src="./assets/settings.svg" alt="Settings" width="30" height="30" align="top" /> 4. Settings & Performance</h2>
 
 ### Logs & Block Page
@@ -133,6 +137,7 @@
 
 ---
 
+<a name="5-deployment-note"></a>
 <h2><img src="./assets/deployment.svg" alt="Deployment" width="30" height="30" align="top" /> 5. Deployment Note</h2>
 
 <p align="justify">
@@ -146,6 +151,7 @@
 
 ---
 
+<a name="references"></a>
 <h2><img src="./assets/references.svg" alt="References" width="30" height="30" align="top" /> References</h2>
 
 | Resource | Role & Description |
